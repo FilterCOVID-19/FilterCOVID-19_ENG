@@ -70,7 +70,7 @@ You can check the operation of the "cyclone" by disabling the electric depositio
 
 **About us**
 
-Unfortunately, our five-man team has limited capabilities. I, Veronica, wrote this article and am ready to answer your questions. The author of the conceptual ideas is my father (Igor). If you have questions, ask as soon as possible. He lies paralyzed and has very little time left.  Yuri specializes in 3D modeling. Valeriy is ready to contact all interested parties for the manufacture of the filter and the organization of mass production. We will conduct all our work on GitHub (link). Please join.
+Unfortunately, our five-man team has limited capabilities. I, Veronica, wrote this article and am ready to answer your questions. The author of the conceptual ideas is my father (Igor). If you have questions, ask as soon as possible. He lies paralyzed and has very little time left. Yuri specializes in 3D modeling. Valeriy is ready to contact all interested parties for the manufacture of the filter and the organization of mass production. We will conduct all our work on GitHub (https://github.com/FilterCOVID-19/FilterCOVID-19_ENG). Please join.
 
 Security guarantees: the user does everything at his own risk. The license is free.
 
